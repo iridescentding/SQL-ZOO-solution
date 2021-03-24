@@ -1,0 +1,2 @@
+SELECT * FROM dbschool
+WHERE id  = '23332'
